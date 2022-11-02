@@ -1,35 +1,35 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Password Generator",
+    subtitle: "Password Generator",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    image: "./Picture-of-Password Generator-Tool.webp",
+    link: "https://richardwilborn.github.io/password-generator-tool/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "The Legend of Orion",
+    subtitle: "Front-End Application",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://josuepaniagua.github.io/Orion/",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "TicketScholar",
+    subtitle: "Full-Stack Application",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://whispering-cove-28179.herokuapp.com/",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Work Daily Planner",
+    subtitle: "JavaScript",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://richardwilborn.github.io/Work-Daily-Planner/",
   },
 ];
 

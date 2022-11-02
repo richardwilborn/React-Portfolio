@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "Password Generator",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./Picture-of-Password Generator-Tool.webp",
+    image: "./Picture_of_Password-Generator-Tool.webp",
     link: "https://richardwilborn.github.io/password-generator-tool/",
   },
   {

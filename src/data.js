@@ -12,7 +12,7 @@ export const projects = [
     subtitle: "Front-End Application",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
+    image: "./Picture_of_Orion-Application.webp",
     link: "https://josuepaniagua.github.io/Orion/",
   },
   {
@@ -20,7 +20,7 @@ export const projects = [
     subtitle: "Full-Stack Application",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
+    image: "./Picture_of_Ticket-Scholar.webp",
     link: "https://whispering-cove-28179.herokuapp.com/",
   },
   {
@@ -28,7 +28,7 @@ export const projects = [
     subtitle: "JavaScript",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
+    image: "./Picture_of_Workday_Planner.webp",
     link: "https://richardwilborn.github.io/Work-Daily-Planner/",
   },
 ];

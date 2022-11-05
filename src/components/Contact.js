@@ -53,7 +53,7 @@ export default function Contact() {
                 EMAIL
               </h2>
               <a className="text-indigo-400 leading-relaxed">
-                richard.wilborn@icloud.com
+                richard@richardwilborn.com
               </a>
             </div>
           </div>
